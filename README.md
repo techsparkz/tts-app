@@ -12,7 +12,7 @@ modules used:
 2.gtts
 3.os
 commands:
-pip install gtts\n
+pip install gtts
 pip install playsound
 if playsound doesnt download you can download playsound's wheel file from here:
 https://www.lfd.uci.edu/~gohlke/pythonlibs/
